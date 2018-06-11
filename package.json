@@ -5,6 +5,7 @@
   "author": "loklak-bot <loklaktest@gmail.com>",
   "description": "Loklak Server Bot",
   "dependencies": {
+    "heroku": "^7.0.88",
     "hubot": "^2.19.0",
     "hubot-diagnostics": "0.0.2",
     "hubot-gitter2": "^1.0.0",
